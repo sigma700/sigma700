@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sigma700">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hi%20there%2C%20I'm%20Allan%20%F0%9F%91%8B" alt="Hi there, I&#39;m Allan 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=31445e&fontSize=54&height=90&width=794&text=Hi%20there%2C%20I'm%20Allan%20%F0%9F%91%8B" alt="Hi there, I&#39;m Allan 👋" />
   </a>
 </p>
 
@@ -62,14 +62,14 @@ I'm currently expanding my skills in Python and Artificial Intelligence, explori
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sigma700&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sigma700&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sigma700&show_icons=true&theme=tokyonight&title_color=31445e&icon_color=31445e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sigma700&layout=compact&theme=tokyonight&title_color=31445e&icon_color=31445e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sigma700&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sigma700&bg_color=00000000&color=31445e&line=31445e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
